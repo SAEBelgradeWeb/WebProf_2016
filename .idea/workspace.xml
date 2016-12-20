@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07320115-fbb0-407e-93de-b3eadd75c3a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lession3/arrays2.php" afterPath="$PROJECT_DIR$/lession3/arrays2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cas3/zadatak1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cas3/zadatak2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cas3/zadatak2.view.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Lesson3/loopsEnd.php" afterPath="$PROJECT_DIR$/cas3_zadaci/resenja.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Lesson3/loopsStart.php" afterPath="$PROJECT_DIR$/cas3_zadaci/zadaci.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lession3/arrays2.php" afterPath="$PROJECT_DIR$/cas3/arrays2.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lession3/loops.php" afterPath="$PROJECT_DIR$/cas3/loops.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lession3/zadaci.md" afterPath="$PROJECT_DIR$/cas3/zadaci.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arrays2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lession3/arrays2.php">
+      <file leaf-file-name="zadaci.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cas3_zadaci/zadaci.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-422">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#134#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="1460">
+              <caret line="50" column="159" lean-forward="true" selection-start-line="50" selection-start-column="159" selection-end-line="50" selection-end-column="159" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -40,6 +46,11 @@
         <option value="$PROJECT_DIR$/loops.php" />
         <option value="$PROJECT_DIR$/zadaci.md" />
         <option value="$PROJECT_DIR$/lession3/arrays2.php" />
+        <option value="$PROJECT_DIR$/lession3/zadaci.php" />
+        <option value="$PROJECT_DIR$/cas3/zadaci.php" />
+        <option value="$PROJECT_DIR$/cas3/zadaci.md" />
+        <option value="$PROJECT_DIR$/cas3/zadatak2.view.php" />
+        <option value="$PROJECT_DIR$/cas3/zadatak2.php" />
       </list>
     </option>
   </component>
@@ -96,7 +107,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lession3" />
+              <option name="myItemId" value="cas3_zadaci" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -110,7 +121,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson3" />
+              <option name="myItemId" value="cas3" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -129,6 +140,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -207,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1482254107833</updated>
       <workItem from="1482254109360" duration="4044000" />
-      <workItem from="1482260263756" duration="237000" />
+      <workItem from="1482260263756" duration="3202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4281000" />
+    <option name="totallyTimeSpent" value="7246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="53" width="1440" height="795" extended-state="0" />
@@ -252,59 +264,89 @@
     <entry file="file://$PROJECT_DIR$/arrays2.php" />
     <entry file="file://$PROJECT_DIR$/loops.php" />
     <entry file="file://$PROJECT_DIR$/zadaci.md" />
-    <entry file="file://$PROJECT_DIR$/lession3/zadaci.md">
+    <entry file="file://$PROJECT_DIR$/cas3/arrays2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-422">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1482260748000" expanded="true" signature="8:132" ph="..." />
+            <marker date="1482260748000" expanded="true" signature="385:434" ph="..." />
+            <marker date="1482260748000" expanded="true" signature="462:590" ph="..." />
+            <marker date="1482260748000" expanded="true" signature="476:577" ph="{...}" />
+            <marker date="1482260748000" expanded="true" signature="502:542" ph="{...}" />
+            <marker date="1482260748000" expanded="true" signature="549:574" ph="..." />
+            <marker date="1482260748000" expanded="true" signature="622:698" ph="..." />
+            <marker date="1482260748000" expanded="true" signature="649:698" ph="{...}" />
+            <marker date="1482260748000" expanded="true" signature="730:819" ph="..." />
+            <marker date="1482260748000" expanded="true" signature="757:819" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cas3/zadatak1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1482261020000" expanded="true" signature="35:76" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cas3/zadaci.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="210">
+            <caret line="4" column="132" lean-forward="false" selection-start-line="4" selection-start-column="132" selection-end-line="4" selection-end-column="132" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson3/loopsEnd.php">
+    <entry file="file://$PROJECT_DIR$/cas3_zadaci/resenja.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3677">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1482260373000" expanded="true" signature="25:142" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="178:286" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="206:272" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="240:265" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="307:457" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="505:561" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="531:547" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="587:643" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="613:629" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="665:792" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="917:998" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="963:994" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="1036:1276" ph="..." />
-            <marker date="1482260373000" expanded="true" signature="1321:1570" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="1355:1399" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="1423:1462" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="1489:1528" ph="{...}" />
-            <marker date="1482260373000" expanded="true" signature="1538:1567" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson3/loopsStart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-3650">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lession3/arrays2.php">
+    <entry file="file://$PROJECT_DIR$/cas3/zadatak2.view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="1155">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="e#6#134#0#PHP" expanded="true" />
+            <marker date="1482263637000" expanded="true" signature="31:962" ph="..." />
+            <marker date="1482263637000" expanded="true" signature="38:689" ph="..." />
+            <marker date="1482263637000" expanded="true" signature="92:206" ph="..." />
+            <marker date="1482263637000" expanded="true" signature="520:681" ph="..." />
+            <marker date="1482263637000" expanded="true" signature="533:568" ph="{...}" />
+            <marker date="1482263637000" expanded="true" signature="589:669" ph="{...}" />
+            <marker date="1482263637000" expanded="true" signature="696:954" ph="..." />
+            <marker date="1482263637000" expanded="true" signature="701:945" ph="..." />
+            <marker date="1482263637000" expanded="true" signature="741:926" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cas3/zadatak2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1482263745000" expanded="true" signature="8:59" ph="..." />
+            <marker date="1482263745000" expanded="true" signature="74:627" ph="..." />
+            <marker date="1482263745000" expanded="true" signature="85:186" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cas3_zadaci/zadaci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="50" column="159" lean-forward="true" selection-start-line="50" selection-start-column="159" selection-end-line="50" selection-end-column="159" />
+          <folding />
         </state>
       </provider>
     </entry>
