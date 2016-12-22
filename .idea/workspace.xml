@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07320115-fbb0-407e-93de-b3eadd75c3a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cas3/zadatak1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cas3/zadatak2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cas3/zadatak2.view.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Lesson3/loopsEnd.php" afterPath="$PROJECT_DIR$/cas3_zadaci/resenja.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Lesson3/loopsStart.php" afterPath="$PROJECT_DIR$/cas3_zadaci/zadaci.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lession3/arrays2.php" afterPath="$PROJECT_DIR$/cas3/arrays2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lession3/loops.php" afterPath="$PROJECT_DIR$/cas3/loops.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lession3/zadaci.md" afterPath="$PROJECT_DIR$/cas3/zadaci.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="07320115-fbb0-407e-93de-b3eadd75c3a1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -219,12 +209,12 @@
       <option name="presentableId" value="Default" />
       <updated>1482254107833</updated>
       <workItem from="1482254109360" duration="4044000" />
-      <workItem from="1482260263756" duration="3202000" />
+      <workItem from="1482260263756" duration="3325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7246000" />
+    <option name="totallyTimeSpent" value="7369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="53" width="1440" height="795" extended-state="0" />
