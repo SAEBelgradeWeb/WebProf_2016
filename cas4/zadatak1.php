@@ -5,23 +5,30 @@
  * Date: 12/22/16
  * Time: 17:13
  */
-/*
-for ($i = 1; $i <= 100; $i++)
-{
-    if ( $i%3 == 0 && $i%5 == 0 )
-    {
-        echo $i . " FizzBuzz"."\n" ;
+
+$total = 0;
+$string = '';
+
+$myA = [ -24, 'some', 'item', 1, 'Could',
+    776, 33, -50, "BE", 'awesome', 5.7,'.'];
+
+function conc($itemString){
+    global $string;
+    return $string .= $itemString.' ';
+}
+
+function sum($itemNum){
+    global $total;
+    return $total + $itemNum;
+}
+
+foreach( $myA as $item){
+    if (is_string($item)){
+        conc($item);
+    }else{
+        $total = sum($item);
     }
-    else if ( $i%3 == 0 )
-    {
-        echo $i. " Fizz"."\n";
-    }
-    else if ( $i%5 == 0 )
-    {
-        echo $i. " Buzz"."\n";
-    }
-    else
-    {
-        echo $i."\n";
-    }
-}*/
+}
+
+echo ucfirst(strtolower($string)).'<br>';
+echo $total;
