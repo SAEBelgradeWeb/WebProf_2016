@@ -1,0 +1,47 @@
+<html>
+<head>
+    
+</head>
+<body>
+<script>
+//    var i = 'aomwrhibnf';
+//    var someArr = [1, 2,3,'some', 'arrr'];
+//
+//    for(var a=0; a < someArr.length; a++){
+//        if (!isNaN(someArr[a])){
+//            console.log(someArr[a])
+//        }
+//    }
+//    var someString = "adf asd   asdfasd fasd      ".trim().replace(' ', '-');
+//    var myNewFloat = parseFloat(someString);
+//    if(!isNaN(myNewFloat)){
+//        console.log(myNewFloat*3);
+//    }else{
+//        console.log('given value cant be calculated')
+//    }
+
+    var someArray = ['1', 4, 18];
+
+    //if value is 1, print "single"
+    //if value is 4, print quarsome
+//if value is 18, print group party
+    for (var i = 0; i < someArray.length; i++) {
+        switch(parseInt(someArray[i])){
+            case 1:
+                console.log('single');
+                break;
+            case 4:
+                console.log('quarsome');
+                break;
+            case 18:
+                console.log('group party');
+                break;
+            default:
+                console.log('given value is not covered');
+                break;
+        }
+    }
+
+</script>
+</body>
+</html>
